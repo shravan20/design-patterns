@@ -1,5 +1,8 @@
 # Catalog of Design Patterns
 
+
+[![Java CI with Maven](https://github.com/shravan20/design-patterns/actions/workflows/maven.yml/badge.svg)](https://github.com/shravan20/design-patterns/actions/workflows/maven.yml)
+
  - [ ] Creational Design Pattern
    - [ ] Factory Method
    - [ ] Abstract Method
