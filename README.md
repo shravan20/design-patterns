@@ -1,2 +1,27 @@
-# design-patterns
-Catalog of Design Patterns
+# Catalog of Design Patterns
+
+ - [ ] Creational Design Pattern
+   - [ ] Factory Method
+   - [ ] Abstract Method
+   - [ ] Buider
+   - [ ] Prototype
+   - [ ] Singleton
+ - [ ] Structural Design Pattern
+   - [ ] Adapter
+   - [ ] Bridge
+   - [ ] Composite
+   - [ ] Decorator
+   - [ ] Facade
+   - [ ] Flyweight
+   - [ ] Proxy
+ - [ ] Behavioural Design Pattern
+   - [ ] Chain of Responsibility
+   - [ ] Command
+   - [ ] Iterator
+   - [ ] Mediator
+   - [ ] Memento
+   - [ ] Observer
+   - [ ] State
+   - [ ] Strategy
+   - [ ] Template Method
+   - [ ] Visitor
