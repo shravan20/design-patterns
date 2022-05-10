@@ -28,3 +28,5 @@
    - [ ] Strategy
    - [ ] Template Method
    - [ ] Visitor
+
+----
