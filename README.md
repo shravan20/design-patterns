@@ -3,14 +3,14 @@
 
 [![Java CI with Maven](https://github.com/shravan20/design-patterns/actions/workflows/maven.yml/badge.svg)](https://github.com/shravan20/design-patterns/actions/workflows/maven.yml)
 
- - [ ] Creational Design Pattern
+ - [ ] **Creational Design Pattern**
    - [ ] Factory Method : Creates an instance of several derived classes
    - [ ] Abstract Method : Creates an instance of several families of classes
    - [ ] Buider : Separates object construction from its representation
    - [ ] Prototype : A fully initialized instance to be copied or cloned
    - [ ] Singleton : A class of which only a single instance can exist
 
- - [ ] Structural Design Pattern
+ - [ ] **Structural Design Pattern**
    - [ ] Adapter : Matches interfaces of different classes
    - [ ] Bridge : Separates an object's interface from it's implementation
    - [ ] Composite : A tree structure of simple and composite objects
@@ -20,7 +20,7 @@
    - [ ] Proxy :  An object representing another object
    - [ ] Private Data Class: Restricts accessor/mutator access
 
- - [ ] Behavioural Design Pattern
+ - [ ] **Behavioural Design Pattern**
    - [ ] Chain of Responsibility : A way of passing a request between a chain of objects
    - [ ] Command : Encapsulate a command request as an object
    - [ ] Iterator : Sequentially access the elements of a collection
